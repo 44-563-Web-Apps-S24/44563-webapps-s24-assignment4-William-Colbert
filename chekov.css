@@ -1,0 +1,8 @@
+.speech{font-family: "Times New Roman";
+font-size: 30px;  color:black;}
+.direction{font-family:Helvetica; 
+font-size: 60px; color:black; background-color: lightskyblue;}
+.direction:hover{color:red; 
+background-color: darkviolet;}
+.lomov{color:goldenrod;}
+.natalya{color:hotpink;}
