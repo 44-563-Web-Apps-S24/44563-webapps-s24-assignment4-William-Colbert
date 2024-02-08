@@ -6,6 +6,8 @@ font-size: 30px; color:black; background-color: lightskyblue;}
 background-color: darkviolet;}
 .lomov{color:goldenrod;}
 .natalya{color:hotpink;}
+.lomov:hover{text-shadow: 0px 0px 6px yellow;}
+.natalya:hover{text-shadow: 0px 0px 6px yellow;}
 
 table{border:solid 5px darkred;
 border-collapse: collapse;}
