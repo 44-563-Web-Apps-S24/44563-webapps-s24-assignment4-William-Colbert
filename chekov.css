@@ -6,3 +6,21 @@ font-size: 30px; color:black; background-color: lightskyblue;}
 background-color: darkviolet;}
 .lomov{color:goldenrod;}
 .natalya{color:hotpink;}
+
+table{border:solid 5px darkred;
+border-collapse: collapse;}
+
+th{color:darkgreen;
+text-align: center; padding: 7px;
+margin: 5px;}
+
+td{color:pink;
+text-align: center; padding: 7px;
+margin: 5px;}
+
+tr:nth-child(even){
+    background-color: purple;
+}
+tr:nth-child(odd){
+    background-color: gray;
+}
